@@ -1,6 +1,6 @@
 # DS-principles-curriculum — Инструкции для Claude Code
 
-> **Тип репо:** DS/surface
+> **Тип репозитория:** DS/surface
 > **Upstream Pack:** PACK-MIM (MIM) — методика обучения
 > **Upstream Content:** ZP (нулевые принципы), FPF (первые принципы)
 > **Объект:** Конкретные программы обучения принципам мышления
